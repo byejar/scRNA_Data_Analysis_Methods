@@ -31,7 +31,7 @@ scrna+打分函数（ucell aucell fgsea/javagsea/ssgsea）
    - For tumor cell analysis, applies **CopyKAT** or **inferCNV** to detect copy number variations (CNVs) in scRNA-seq data.
 
 7. **scRNA+spRNA+cellchat v2**: 
-   - Integrates **spatial transcriptomics** (spRNA) and **CellChat v2** to study spatial cell communication networks.
+   - Integrates **spatial transcriptomics** (ST) and **CellChat v2** to study spatial cell communication networks.
 
 8. **scRNA+COMPASS**: 
    - Predicts metabolic activity and diversity using **COMPASS** in scRNA-seq data.
