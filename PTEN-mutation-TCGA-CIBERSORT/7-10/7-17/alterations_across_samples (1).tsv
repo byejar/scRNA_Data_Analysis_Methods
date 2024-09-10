@@ -1,0 +1,506 @@
+ucec_tcga_pan_can_atlas_2018	TCGA-A5-A0GJ-01	TCGA-A5-A0GJ	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-A5-A7WK-01	TCGA-A5-A7WK	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-AJ-A3EM-01	TCGA-AJ-A3EM	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-AP-A052-01	TCGA-AP-A052	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-AP-A0LP-01	TCGA-AP-A0LP	1	"R130G (driver), HOMDEL (driver)"	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-AP-A5FX-01	TCGA-AP-A5FX	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-AX-A3G1-01	TCGA-AX-A3G1	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-B5-A0K2-01	TCGA-B5-A0K2	1	"R130Q (driver), HOMDEL (driver)"	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-BG-A3PP-01	TCGA-BG-A3PP	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-BS-A0TE-01	TCGA-BS-A0TE	1	"V249E, HOMDEL (driver)"	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-D1-A160-01	TCGA-D1-A160	1	"L146* (driver), HOMDEL (driver)"	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-D1-A16J-01	TCGA-D1-A16J	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-D1-A17H-01	TCGA-D1-A17H	1	"R74Dfs*25 (driver), HOMDEL (driver)"	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-D1-A17K-01	TCGA-D1-A17K	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-D1-A1O0-01	TCGA-D1-A1O0	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-D1-A3DG-01	TCGA-D1-A3DG	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-EO-A2CH-01	TCGA-EO-A2CH	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-EY-A3L3-01	TCGA-EY-A3L3	1	HOMDEL (driver)	HOMDEL 
+ucec_tcga_pan_can_atlas_2018	TCGA-FI-A2D2-01	TCGA-FI-A2D2	1	HOMDEL (driver)	HOMDEL 
+	TCGA-4E-A92E-01	TCGA-4E-A92E	1	"T319* (driver), Q245* (driver)"	MUT
+	TCGA-5S-A9Q8-01	TCGA-5S-A9Q8	1	"D92V (driver), K237_F241del, Q245E"	MUT
+	TCGA-A5-A0G1-01	TCGA-A5-A0G1	1	A137V	MUT
+	TCGA-A5-A0G2-01	TCGA-A5-A0G2	1	"R130Q (driver), R173C (driver), G282* (driver), K266N"	MUT
+	TCGA-A5-A0G9-01	TCGA-A5-A0G9	1	R130L (driver)	MUT
+	TCGA-A5-A0GA-01	TCGA-A5-A0GA	1	T319* (driver)	MUT
+	TCGA-A5-A0GB-01	TCGA-A5-A0GB	1	X212_splice (driver)	MUT
+	TCGA-A5-A0GE-01	TCGA-A5-A0GE	1	"R130Q (driver), T319Nfs*6 (driver), R335G (driver)"	MUT
+	TCGA-A5-A0GH-01	TCGA-A5-A0GH	1	T319* (driver)	MUT
+	TCGA-A5-A0GI-01	TCGA-A5-A0GI	1	H64Ifs*35 (driver)	MUT
+	TCGA-A5-A0GM-01	TCGA-A5-A0GM	1	R130G (driver)	MUT
+	TCGA-A5-A0GP-01	TCGA-A5-A0GP	1	"R130Q (driver), R233* (driver)"	MUT
+	TCGA-A5-A0GQ-01	TCGA-A5-A0GQ	1	C218Afs*3 (driver)	MUT
+	TCGA-A5-A0GU-01	TCGA-A5-A0GU	1	"R130G (driver), D268Kfs*10 (driver), K66N"	MUT
+	TCGA-A5-A0GV-01	TCGA-A5-A0GV	1	"R130G (driver), X338_splice (driver)"	MUT
+	TCGA-A5-A0GW-01	TCGA-A5-A0GW	1	"R130Q (driver), D252Y (driver)"	MUT
+	TCGA-A5-A0GX-01	TCGA-A5-A0GX	1	"Y16_Q17delins* (driver), L152R"	MUT
+	TCGA-A5-A0R7-01	TCGA-A5-A0R7	1	"N184Efs*6 (driver), K66Tfs*36 (driver)"	MUT
+	TCGA-A5-A0R8-01	TCGA-A5-A0R8	1	"H93R (driver), H75Kfs*4 (driver)"	MUT
+	TCGA-A5-A0R9-01	TCGA-A5-A0R9	1	"T319* (driver), H259Tfs*7 (driver)"	MUT
+	TCGA-A5-A0RA-01	TCGA-A5-A0RA	1	"R130G (driver), X70_splice (driver)"	MUT
+	TCGA-A5-A0VP-01	TCGA-A5-A0VP	1	"R233* (driver), R173H (driver), R161S (driver), R142Q"	MUT
+	TCGA-A5-A0VQ-01	TCGA-A5-A0VQ	1	"V290* (driver), A86V, D324del"	MUT
+	TCGA-A5-A1OF-01	TCGA-A5-A1OF	1	R130Q (driver)	MUT
+	TCGA-A5-A1OJ-01	TCGA-A5-A1OJ	1	R130* (driver)	MUT
+	TCGA-A5-A2K5-01	TCGA-A5-A2K5	1	"E299* (driver), R142W, S59P"	MUT
+	TCGA-A5-A2K7-01	TCGA-A5-A2K7	1	"Y336* (driver), L320* (driver), A34T (driver)"	MUT
+	TCGA-A5-A3LO-01	TCGA-A5-A3LO	1	E99* (driver)	MUT
+	TCGA-AJ-A23O-01	TCGA-AJ-A23O	1	F154Sfs*5 (driver)	MUT
+	TCGA-AJ-A2QL-01	TCGA-AJ-A2QL	1	"Y68* (driver), Y225* (driver)"	MUT
+	TCGA-AJ-A2QN-01	TCGA-AJ-A2QN	1	R130Q (driver)	MUT
+	TCGA-AJ-A2QO-01	TCGA-AJ-A2QO	1	"R130L (driver), S170I (driver)"	MUT
+	TCGA-AJ-A3BD-01	TCGA-AJ-A3BD	1	C136R (driver)	MUT
+	TCGA-AJ-A3BG-01	TCGA-AJ-A3BG	1	"R233* (driver), D268Gfs*30 (driver)"	MUT
+	TCGA-AJ-A3BI-01	TCGA-AJ-A3BI	1	"G127V (driver), X70_splice (driver), G127* (driver)"	MUT
+	TCGA-AJ-A3BK-01	TCGA-AJ-A3BK	1	"T319* (driver), I168_Q171delinsM"	MUT
+	TCGA-AJ-A3EK-01	TCGA-AJ-A3EK	1	"R130Q (driver), E299* (driver)"	MUT
+	TCGA-AJ-A3EL-01	TCGA-AJ-A3EL	1	"E299* (driver), F341V (driver), F154L (driver), R14M"	MUT
+	TCGA-AJ-A3I9-01	TCGA-AJ-A3I9	1	G129R (driver)	MUT
+	TCGA-AJ-A3NG-01	TCGA-AJ-A3NG	1	"R130Q (driver), R130G (driver)"	MUT
+	TCGA-AJ-A3OJ-01	TCGA-AJ-A3OJ	1	"K267Rfs*9 (driver), E157Gfs*23 (driver)"	MUT
+	TCGA-AJ-A3OK-01	TCGA-AJ-A3OK	1	"R130Q (driver), R173H (driver), X342_splice (driver)"	MUT
+	TCGA-AJ-A3OL-01	TCGA-AJ-A3OL	1	C136* (driver)	MUT
+	TCGA-AJ-A5DV-01	TCGA-AJ-A5DV	1	"R233* (driver), M199del (driver)"	MUT
+	TCGA-AJ-A5DW-01	TCGA-AJ-A5DW	1	"R130Q (driver), F341V (driver), R142W"	MUT
+	TCGA-AJ-A8CT-01	TCGA-AJ-A8CT	1	"R130Q (driver), K254Rfs*42 (driver)"	MUT
+	TCGA-AJ-A8CV-01	TCGA-AJ-A8CV	1	X55_splice (driver)	MUT
+	TCGA-AP-A051-01	TCGA-AP-A051	1	N184Efs*6 (driver)	MUT
+	TCGA-AP-A054-01	TCGA-AP-A054	1	"R233* (driver), C136* (driver)"	MUT
+	TCGA-AP-A056-01	TCGA-AP-A056	1	R130Q (driver)	MUT
+	TCGA-AP-A059-01	TCGA-AP-A059	1	"X27_splice (driver), A137V"	MUT
+	TCGA-AP-A05N-01	TCGA-AP-A05N	1	T319* (driver)	MUT
+	TCGA-AP-A05P-01	TCGA-AP-A05P	1	M270I	MUT
+	TCGA-AP-A0LD-01	TCGA-AP-A0LD	1	"E43* (driver), F238Vfs*5 (driver)"	MUT
+	TCGA-AP-A0LE-01	TCGA-AP-A0LE	1	"R233* (driver), K60Lfs*9 (driver)"	MUT
+	TCGA-AP-A0LG-01	TCGA-AP-A0LG	1	"N323Kfs*2 (driver), I33del"	MUT
+	TCGA-AP-A0LJ-01	TCGA-AP-A0LJ	1	R130Qfs*4 (driver)	MUT
+	TCGA-AP-A0LN-01	TCGA-AP-A0LN	1	"I4Tfs*19 (driver), K125_V133del"	MUT
+	TCGA-AP-A0LO-01	TCGA-AP-A0LO	1	"S170N (driver), R130P (driver)"	MUT
+	TCGA-AP-A0LQ-01	TCGA-AP-A0LQ	1	"C136R (driver), R47Ifs*6 (driver)"	MUT
+	TCGA-AP-A0LS-01	TCGA-AP-A0LS	1	I5Rfs*4 (driver)	MUT
+	TCGA-AP-A0LT-01	TCGA-AP-A0LT	1	"Q298* (driver), R130* (driver)"	MUT
+	TCGA-AP-A0LV-01	TCGA-AP-A0LV	1	R130G (driver)	MUT
+	TCGA-AP-A1DH-01	TCGA-AP-A1DH	1	"V290* (driver), K267Rfs*9 (driver), T167N (driver)"	MUT
+	TCGA-AP-A1DK-01	TCGA-AP-A1DK	1	R233* (driver)	MUT
+	TCGA-AP-A1DM-01	TCGA-AP-A1DM	1	"E285* (driver), A39P (driver)"	MUT
+	TCGA-AP-A1DO-01	TCGA-AP-A1DO	1	"N323Kfs*2 (driver), R130Qfs*4 (driver), L112Qfs*9 (driver)"	MUT
+	TCGA-AP-A1DP-01	TCGA-AP-A1DP	1	S10Afs*14 (driver)	MUT
+	TCGA-AP-A1DR-01	TCGA-AP-A1DR	1	K267Rfs*9 (driver)	MUT
+	TCGA-AP-A1DV-01	TCGA-AP-A1DV	1	"D92Y (driver), N49T"	MUT
+	TCGA-AP-A1E0-01	TCGA-AP-A1E0	1	"R15K (driver), G129R (driver), R14M, N63H, K66T"	MUT
+	TCGA-AP-A1E1-01	TCGA-AP-A1E1	1	"R233* (driver), X55_splice (driver)"	MUT
+	TCGA-AP-A1E3-01	TCGA-AP-A1E3	1	X212_splice (driver)	MUT
+	TCGA-AX-A05S-01	TCGA-AX-A05S	1	Q298* (driver)	MUT
+	TCGA-AX-A05T-01	TCGA-AX-A05T	1	I33del	MUT
+	TCGA-AX-A05U-01	TCGA-AX-A05U	1	"R130G (driver), X70_splice (driver)"	MUT
+	TCGA-AX-A05W-01	TCGA-AX-A05W	1	"R233* (driver), R130* (driver)"	MUT
+	TCGA-AX-A05Y-01	TCGA-AX-A05Y	1	"X343_splice (driver), R233* (driver)"	MUT
+	TCGA-AX-A05Z-01	TCGA-AX-A05Z	1	"R130Q (driver), E201* (driver), R142W"	MUT
+	TCGA-AX-A060-01	TCGA-AX-A060	1	R130L (driver)	MUT
+	TCGA-AX-A063-01	TCGA-AX-A063	1	"Y16* (driver), D153Gfs*3 (driver)"	MUT
+	TCGA-AX-A064-01	TCGA-AX-A064	1	"R130G (driver), X267_splice (driver)"	MUT
+	TCGA-AX-A06F-01	TCGA-AX-A06F	1	R130Q (driver)	MUT
+	TCGA-AX-A06H-01	TCGA-AX-A06H	1	"D92G (driver), E150* (driver)"	MUT
+	TCGA-AX-A06J-01	TCGA-AX-A06J	1	I28N	MUT
+	TCGA-AX-A06L-01	TCGA-AX-A06L	1	"X70_splice (driver), R172Gfs*11 (driver)"	MUT
+	TCGA-AX-A0IS-01	TCGA-AX-A0IS	1	D301Ifs*6 (driver)	MUT
+	TCGA-AX-A0J0-01	TCGA-AX-A0J0	1	"R130Q (driver), R142W, M270T"	MUT
+	TCGA-AX-A0J1-01	TCGA-AX-A0J1	1	R130Q (driver)	MUT
+	TCGA-AX-A1C4-01	TCGA-AX-A1C4	1	I101N (driver)	MUT
+	TCGA-AX-A1C5-01	TCGA-AX-A1C5	1	"R233* (driver), C136R (driver), T286I"	MUT
+	TCGA-AX-A1C9-01	TCGA-AX-A1C9	1	"R233* (driver), R173H (driver), P246L (driver)"	MUT
+	TCGA-AX-A1CE-01	TCGA-AX-A1CE	1	"G36R (driver), A126S (driver)"	MUT
+	TCGA-AX-A1CJ-01	TCGA-AX-A1CJ	1	N323Mfs*21 (driver)	MUT
+	TCGA-AX-A1CK-01	TCGA-AX-A1CK	1	"X343_splice (driver), E373Lfs*42 (driver)"	MUT
+	TCGA-AX-A2HA-01	TCGA-AX-A2HA	1	"N323Kfs*2 (driver), R233Dfs*23 (driver)"	MUT
+	TCGA-AX-A2HC-01	TCGA-AX-A2HC	1	"Y240* (driver), R15I (driver), Q171R (driver)"	MUT
+	TCGA-AX-A2HD-01	TCGA-AX-A2HD	1	"X342_splice (driver), R14Kfs*30 (driver)"	MUT
+	TCGA-AX-A2HG-01	TCGA-AX-A2HG	1	"V290* (driver), N63Kfs*11 (driver)"	MUT
+	TCGA-AX-A2HJ-01	TCGA-AX-A2HJ	1	"R233* (driver), X85_splice (driver), E288Kfs*9 (driver)"	MUT
+	TCGA-AX-A2IN-01	TCGA-AX-A2IN	1	"D92Y (driver), L57Ffs*6 (driver)"	MUT
+	TCGA-AX-A3FS-01	TCGA-AX-A3FS	1	"R173H (driver), K128M (driver)"	MUT
+	TCGA-AX-A3FW-01	TCGA-AX-A3FW	1	C296* (driver)	MUT
+	TCGA-AX-A3FX-01	TCGA-AX-A3FX	1	"Q17* (driver), G127del"	MUT
+	TCGA-AX-A3FZ-01	TCGA-AX-A3FZ	1	R130G (driver)	MUT
+	TCGA-AX-A3G4-01	TCGA-AX-A3G4	1	V217del	MUT
+	TCGA-AX-A3G6-01	TCGA-AX-A3G6	1	I101T (driver)	MUT
+	TCGA-AX-A3G7-01	TCGA-AX-A3G7	1	K125T (driver)	MUT
+	TCGA-AX-A3G8-01	TCGA-AX-A3G8	1	"G132D (driver), K267Rfs*9 (driver)"	MUT
+	TCGA-AX-A3G9-01	TCGA-AX-A3G9	1	R130G (driver)	MUT
+	TCGA-AX-A3GB-01	TCGA-AX-A3GB	1	T321Qfs*23 (driver)	MUT
+	TCGA-B5-A0JR-01	TCGA-B5-A0JR	1	"N323Kfs*2 (driver), L325R (driver)"	MUT
+	TCGA-B5-A0JS-01	TCGA-B5-A0JS	1	"L140* (driver), G127V (driver)"	MUT
+	TCGA-B5-A0JT-01	TCGA-B5-A0JT	1	T319* (driver)	MUT
+	TCGA-B5-A0JU-01	TCGA-B5-A0JU	1	"R233* (driver), A39V (driver)"	MUT
+	TCGA-B5-A0JV-01	TCGA-B5-A0JV	1	P96T (driver)	MUT
+	TCGA-B5-A0JX-01	TCGA-B5-A0JX	1	G293Efs*14 (driver)	MUT
+	TCGA-B5-A0JY-01	TCGA-B5-A0JY	1	"E7* (driver), K128Q (driver), D268Gfs*30 (driver), R47M"	MUT
+	TCGA-B5-A0JZ-01	TCGA-B5-A0JZ	1	"V290* (driver), F90Lfs*9 (driver), F145I"	MUT
+	TCGA-B5-A0K1-01	TCGA-B5-A0K1	1	"X343_splice (driver), A126S (driver), N323Lfs*21 (driver)"	MUT
+	TCGA-B5-A0K4-01	TCGA-B5-A0K4	1	R130* (driver)	MUT
+	TCGA-B5-A0K6-01	TCGA-B5-A0K6	1	"R173C (driver), K267Rfs*9 (driver), I33S"	MUT
+	TCGA-B5-A0K7-01	TCGA-B5-A0K7	1	"R335* (driver), Y138C (driver), R308Vfs*9 (driver)"	MUT
+	TCGA-B5-A0K9-01	TCGA-B5-A0K9	1	E150* (driver)	MUT
+	TCGA-B5-A11E-01	TCGA-B5-A11E	1	"E299* (driver), Y68C (driver), R11K"	MUT
+	TCGA-B5-A11F-01	TCGA-B5-A11F	1	F241S (driver)	MUT
+	TCGA-B5-A11G-01	TCGA-B5-A11G	1	"N323Kfs*2 (driver), D268Gfs*30 (driver)"	MUT
+	TCGA-B5-A11H-01	TCGA-B5-A11H	1	"N323Mfs*21 (driver), I203Sfs*39 (driver), Y178del"	MUT
+	TCGA-B5-A11J-01	TCGA-B5-A11J	1	"Y65* (driver), D24G (driver)"	MUT
+	TCGA-B5-A11L-01	TCGA-B5-A11L	1	"L140* (driver), E235* (driver)"	MUT
+	TCGA-B5-A11N-01	TCGA-B5-A11N	1	"E7* (driver), R173C (driver), F341V (driver)"	MUT
+	TCGA-B5-A11O-01	TCGA-B5-A11O	1	"R130Q (driver), N323Mfs*21 (driver)"	MUT
+	TCGA-B5-A11P-01	TCGA-B5-A11P	1	R130G (driver)	MUT
+	TCGA-B5-A11Q-01	TCGA-B5-A11Q	1	L23Sfs*2 (driver)	MUT
+	TCGA-B5-A11R-01	TCGA-B5-A11R	1	"X343_splice (driver), R130* (driver)"	MUT
+	TCGA-B5-A11S-01	TCGA-B5-A11S	1	P248Tfs*5 (driver)	MUT
+	TCGA-B5-A11U-01	TCGA-B5-A11U	1	"N323Mfs*21 (driver), V290Sfs*8 (driver)"	MUT
+	TCGA-B5-A11V-01	TCGA-B5-A11V	1	"R130L (driver), G165R (driver)"	MUT
+	TCGA-B5-A11W-01	TCGA-B5-A11W	1	N340Kfs*3 (driver)	MUT
+	TCGA-B5-A11Y-01	TCGA-B5-A11Y	1	R130* (driver)	MUT
+	TCGA-B5-A11Z-01	TCGA-B5-A11Z	1	R130G (driver)	MUT
+	TCGA-B5-A1MR-01	TCGA-B5-A1MR	1	"R233* (driver), F154L (driver), R14M"	MUT
+	TCGA-B5-A1MV-01	TCGA-B5-A1MV	1	T78Rfs*4 (driver)	MUT
+	TCGA-B5-A1MW-01	TCGA-B5-A1MW	1	D268Gfs*30 (driver)	MUT
+	TCGA-B5-A1MX-01	TCGA-B5-A1MX	1	"N323Kfs*2 (driver), X85_splice (driver), G165* (driver), P281S"	MUT
+	TCGA-B5-A1MZ-01	TCGA-B5-A1MZ	1	"G209* (driver), X27_splice (driver)"	MUT
+	TCGA-B5-A3F9-01	TCGA-B5-A3F9	1	K197Rfs*2 (driver)	MUT
+	TCGA-B5-A3FA-01	TCGA-B5-A3FA	1	"R130Q (driver), R173C (driver), I5V"	MUT
+	TCGA-B5-A3FC-01	TCGA-B5-A3FC	1	"N323Kfs*2 (driver), X55_splice (driver)"	MUT
+	TCGA-B5-A3FD-01	TCGA-B5-A3FD	1	T202Afs*13 (driver)	MUT
+	TCGA-B5-A3FH-01	TCGA-B5-A3FH	1	X212_splice (driver)	MUT
+	TCGA-B5-A5OC-01	TCGA-B5-A5OC	1	"D92E (driver), L320* (driver)"	MUT
+	TCGA-BG-A0LW-01	TCGA-BG-A0LW	1	L146Ffs*34 (driver)	MUT
+	TCGA-BG-A0LX-01	TCGA-BG-A0LX	1	H93* (driver)	MUT
+	TCGA-BG-A0M0-01	TCGA-BG-A0M0	1	T319* (driver)	MUT
+	TCGA-BG-A0M2-01	TCGA-BG-A0M2	1	R130G (driver)	MUT
+	TCGA-BG-A0M3-01	TCGA-BG-A0M3	1	"N48Tfs*6 (driver), T319Yfs*6 (driver)"	MUT
+	TCGA-BG-A0M4-01	TCGA-BG-A0M4	1	R130G (driver)	MUT
+	TCGA-BG-A0M7-01	TCGA-BG-A0M7	1	R130G (driver)	MUT
+	TCGA-BG-A0M9-01	TCGA-BG-A0M9	1	"R130* (driver), Q149* (driver), F154C (driver)"	MUT
+	TCGA-BG-A0MA-01	TCGA-BG-A0MA	1	"Q214* (driver), D310G"	MUT
+	TCGA-BG-A0MC-01	TCGA-BG-A0MC	1	"D52Vfs*2 (driver), S59Kfs*40 (driver)"	MUT
+	TCGA-BG-A0MG-01	TCGA-BG-A0MG	1	K342N (driver)	MUT
+	TCGA-BG-A0MI-01	TCGA-BG-A0MI	1	"C71Y (driver), R130G (driver)"	MUT
+	TCGA-BG-A0MK-01	TCGA-BG-A0MK	1	X342_splice (driver)	MUT
+	TCGA-BG-A0MQ-01	TCGA-BG-A0MQ	1	"R130G (driver), S370Vfs*46 (driver)"	MUT
+	TCGA-BG-A0MT-01	TCGA-BG-A0MT	1	"X212_splice (driver), S10del"	MUT
+	TCGA-BG-A0MU-01	TCGA-BG-A0MU	1	R130G (driver)	MUT
+	TCGA-BG-A0RY-01	TCGA-BG-A0RY	1	R233* (driver)	MUT
+	TCGA-BG-A0VW-01	TCGA-BG-A0VW	1	"D92E (driver), T319Kfs*24 (driver), K267Rfs*9 (driver)"	MUT
+	TCGA-BG-A0VX-01	TCGA-BG-A0VX	1	L57Ffs*6 (driver)	MUT
+	TCGA-BG-A0VZ-01	TCGA-BG-A0VZ	1	R130Q (driver)	MUT
+	TCGA-BG-A0W1-01	TCGA-BG-A0W1	1	X268_splice (driver)	MUT
+	TCGA-BG-A0W2-01	TCGA-BG-A0W2	1	R130G (driver)	MUT
+	TCGA-BG-A0YV-01	TCGA-BG-A0YV	1	"X212_splice (driver), Q87Hfs*12 (driver)"	MUT
+	TCGA-BG-A186-01	TCGA-BG-A186	1	"T319Kfs*24 (driver), E291Kfs*16 (driver)"	MUT
+	TCGA-BG-A187-01	TCGA-BG-A187	1	"X343_splice (driver), M134del"	MUT
+	TCGA-BG-A18A-01	TCGA-BG-A18A	1	"V158Gfs*8 (driver), D312Afs*5 (driver)"	MUT
+	TCGA-BG-A18B-01	TCGA-BG-A18B	1	R233* (driver)	MUT
+	TCGA-BG-A222-01	TCGA-BG-A222	1	K267Rfs*9 (driver)	MUT
+	TCGA-BG-A2L7-01	TCGA-BG-A2L7	1	"T319* (driver), S170Vfs*13 (driver)"	MUT
+	TCGA-BG-A3EW-01	TCGA-BG-A3EW	1	R130G (driver)	MUT
+	TCGA-BK-A0C9-01	TCGA-BK-A0C9	1	G127R (driver)	MUT
+	TCGA-BK-A0CA-01	TCGA-BK-A0CA	1	"R130Q (driver), E307Vfs*9 (driver)"	MUT
+	TCGA-BK-A0CB-01	TCGA-BK-A0CB	1	"R130G (driver), E91* (driver)"	MUT
+	TCGA-BK-A139-01	TCGA-BK-A139	1	R130L (driver)	MUT
+	TCGA-BK-A13B-01	TCGA-BK-A13B	1	"Y16* (driver), S170G (driver), G36R (driver)"	MUT
+	TCGA-BK-A13C-01	TCGA-BK-A13C	1	X268_splice (driver)	MUT
+	TCGA-BK-A4ZD-01	TCGA-BK-A4ZD	1	"E242* (driver), D92E (driver)"	MUT
+	TCGA-BK-A6W3-01	TCGA-BK-A6W3	1	R130Q (driver)	MUT
+	TCGA-BK-A6W4-01	TCGA-BK-A6W4	1	N184Efs*6 (driver)	MUT
+	TCGA-BS-A0T9-01	TCGA-BS-A0T9	1	L57Wfs*42 (driver)	MUT
+	TCGA-BS-A0TA-01	TCGA-BS-A0TA	1	"G129V (driver), R15Mfs*5 (driver)"	MUT
+	TCGA-BS-A0TC-01	TCGA-BS-A0TC	1	"R130G (driver), L146* (driver)"	MUT
+	TCGA-BS-A0TD-01	TCGA-BS-A0TD	1	"T319* (driver), N329Kfs*14 (driver)"	MUT
+	TCGA-BS-A0TG-01	TCGA-BS-A0TG	1	"L152P, D153E"	MUT
+	TCGA-BS-A0TJ-01	TCGA-BS-A0TJ	1	"R233* (driver), X342_splice (driver)"	MUT
+	TCGA-BS-A0U5-01	TCGA-BS-A0U5	1	K164Rfs*3 (driver)	MUT
+	TCGA-BS-A0U7-01	TCGA-BS-A0U7	1	"R130* (driver), H64Ifs*35 (driver)"	MUT
+	TCGA-BS-A0U8-01	TCGA-BS-A0U8	1	"E40Dfs*13 (driver), E157* (driver)"	MUT
+	TCGA-BS-A0UA-01	TCGA-BS-A0UA	1	"V290Sfs*8 (driver), P96A (driver)"	MUT
+	TCGA-BS-A0UF-01	TCGA-BS-A0UF	1	"R130Q (driver), F215S"	MUT
+	TCGA-BS-A0UJ-01	TCGA-BS-A0UJ	1	"R233* (driver), D268Gfs*30 (driver)"	MUT
+	TCGA-BS-A0UL-01	TCGA-BS-A0UL	1	N323Kfs*2 (driver)	MUT
+	TCGA-BS-A0UV-01	TCGA-BS-A0UV	1	"R130Q (driver), Y240* (driver)"	MUT
+	TCGA-BS-A0V4-01	TCGA-BS-A0V4	1	"C136Y (driver), R130G (driver)"	MUT
+	TCGA-BS-A0V6-01	TCGA-BS-A0V6	1	"R130G (driver), C136F (driver)"	MUT
+	TCGA-BS-A0V7-01	TCGA-BS-A0V7	1	"V45Yfs*9 (driver), A34V (driver)"	MUT
+	TCGA-BS-A0V8-01	TCGA-BS-A0V8	1	"G132D (driver), G127R (driver)"	MUT
+	TCGA-BS-A0VI-01	TCGA-BS-A0VI	1	R130G (driver)	MUT
+	TCGA-BS-A0WQ-01	TCGA-BS-A0WQ	1	L182Ffs*8 (driver)	MUT
+	TCGA-D1-A0ZN-01	TCGA-D1-A0ZN	1	K260* (driver)	MUT
+	TCGA-D1-A0ZO-01	TCGA-D1-A0ZO	1	I300Mfs*7 (driver)	MUT
+	TCGA-D1-A0ZQ-01	TCGA-D1-A0ZQ	1	N63Tfs*36 (driver)	MUT
+	TCGA-D1-A0ZR-01	TCGA-D1-A0ZR	1	"R130G (driver), A328Qfs*16 (driver), V255G (driver)"	MUT
+	TCGA-D1-A0ZS-01	TCGA-D1-A0ZS	1	G165R (driver)	MUT
+	TCGA-D1-A0ZU-01	TCGA-D1-A0ZU	1	Y336* (driver)	MUT
+	TCGA-D1-A0ZV-01	TCGA-D1-A0ZV	1	R130Qfs*4 (driver)	MUT
+	TCGA-D1-A101-01	TCGA-D1-A101	1	V255del	MUT
+	TCGA-D1-A102-01	TCGA-D1-A102	1	R335* (driver)	MUT
+	TCGA-D1-A103-01	TCGA-D1-A103	1	E7* (driver)	MUT
+	TCGA-D1-A15W-01	TCGA-D1-A15W	1	"R130Q (driver), R130G (driver), I67T (driver)"	MUT
+	TCGA-D1-A15Z-01	TCGA-D1-A15Z	1	"H196Sfs*6 (driver), K260Tfs*37 (driver)"	MUT
+	TCGA-D1-A161-01	TCGA-D1-A161	1	S302Lfs*8 (driver)	MUT
+	TCGA-D1-A163-01	TCGA-D1-A163	1	N323Kfs*2 (driver)	MUT
+	TCGA-D1-A165-01	TCGA-D1-A165	1	"L112V (driver), N262Qfs*35 (driver)"	MUT
+	TCGA-D1-A169-01	TCGA-D1-A169	1	"A328Qfs*16 (driver), R130P (driver)"	MUT
+	TCGA-D1-A16B-01	TCGA-D1-A16B	1	"R233* (driver), K344Sfs*8 (driver)"	MUT
+	TCGA-D1-A16D-01	TCGA-D1-A16D	1	R233* (driver)	MUT
+	TCGA-D1-A16E-01	TCGA-D1-A16E	1	"H123D (driver), A72* (driver)"	MUT
+	TCGA-D1-A16N-01	TCGA-D1-A16N	1	L140* (driver)	MUT
+	TCGA-D1-A16O-01	TCGA-D1-A16O	1	T319* (driver)	MUT
+	TCGA-D1-A16Q-01	TCGA-D1-A16Q	1	"R130G (driver), Y155C (driver)"	MUT
+	TCGA-D1-A16V-01	TCGA-D1-A16V	1	"M35K (driver), X163_splice (driver), R173L (driver)"	MUT
+	TCGA-D1-A16X-01	TCGA-D1-A16X	1	"R130Q (driver), E201* (driver)"	MUT
+	TCGA-D1-A16Y-01	TCGA-D1-A16Y	1	"R130Q (driver), Q87* (driver), K144T"	MUT
+	TCGA-D1-A174-01	TCGA-D1-A174	1	T210Ifs*11 (driver)	MUT
+	TCGA-D1-A176-01	TCGA-D1-A176	1	G129V (driver)	MUT
+	TCGA-D1-A177-01	TCGA-D1-A177	1	"R130Q (driver), E157* (driver)"	MUT
+	TCGA-D1-A17A-01	TCGA-D1-A17A	1	"R233* (driver), N323Mfs*21 (driver)"	MUT
+	TCGA-D1-A17B-01	TCGA-D1-A17B	1	Y16* (driver)	MUT
+	TCGA-D1-A17C-01	TCGA-D1-A17C	1	R130G (driver)	MUT
+	TCGA-D1-A17D-01	TCGA-D1-A17D	1	"R130G (driver), Y240* (driver)"	MUT
+	TCGA-D1-A17F-01	TCGA-D1-A17F	1	"T319* (driver), D268Gfs*30 (driver)"	MUT
+	TCGA-D1-A17L-01	TCGA-D1-A17L	1	R130G (driver)	MUT
+	TCGA-D1-A17M-01	TCGA-D1-A17M	1	"R233* (driver), V290* (driver), L57Ffs*6 (driver), V275L"	MUT
+	TCGA-D1-A17N-01	TCGA-D1-A17N	1	"Y27D (driver), R41Dfs*13 (driver), M134I (driver)"	MUT
+	TCGA-D1-A17Q-01	TCGA-D1-A17Q	1	"E7* (driver), Y336* (driver), R15K (driver), P30Q"	MUT
+	TCGA-D1-A17R-01	TCGA-D1-A17R	1	"X70_splice (driver), Y88* (driver)"	MUT
+	TCGA-D1-A17S-01	TCGA-D1-A17S	1	H196Lfs*4 (driver)	MUT
+	TCGA-D1-A17T-01	TCGA-D1-A17T	1	"T319* (driver), R130G (driver)"	MUT
+	TCGA-D1-A17U-01	TCGA-D1-A17U	1	X212_splice (driver)	MUT
+	TCGA-D1-A1NS-01	TCGA-D1-A1NS	1	"G293Efs*14 (driver), X343_splice (driver)"	MUT
+	TCGA-D1-A1NY-01	TCGA-D1-A1NY	1	"V290Sfs*8 (driver), L181P (driver)"	MUT
+	TCGA-D1-A1NZ-01	TCGA-D1-A1NZ	1	P38S (driver)	MUT
+	TCGA-D1-A1O5-01	TCGA-D1-A1O5	1	R130* (driver)	MUT
+	TCGA-D1-A1O7-01	TCGA-D1-A1O7	1	"E99Nfs*14 (driver), A34V (driver), A34S (driver)"	MUT
+	TCGA-D1-A1O8-01	TCGA-D1-A1O8	1	"G132D (driver), S338Ffs*5 (driver)"	MUT
+	TCGA-D1-A2G0-01	TCGA-D1-A2G0	1	"T210Lfs*11 (driver), I280Yfs*11 (driver)"	MUT
+	TCGA-D1-A2G5-01	TCGA-D1-A2G5	1	"C124S (driver), A328Sfs*3 (driver)"	MUT
+	TCGA-D1-A2G6-01	TCGA-D1-A2G6	1	N323Mfs*21 (driver)	MUT
+	TCGA-D1-A3DA-01	TCGA-D1-A3DA	1	"K125T (driver), W111R (driver)"	MUT
+	TCGA-DF-A2KN-01	TCGA-DF-A2KN	1	"N323Mfs*21 (driver), L57Ffs*6 (driver)"	MUT
+	TCGA-DF-A2KS-01	TCGA-DF-A2KS	1	Q97Hfs*4 (driver)	MUT
+	TCGA-DF-A2KU-01	TCGA-DF-A2KU	1	"R130Q (driver), P204L, R142W"	MUT
+	TCGA-DF-A2KV-01	TCGA-DF-A2KV	1	"E7* (driver), C218* (driver)"	MUT
+	TCGA-DF-A2KZ-01	TCGA-DF-A2KZ	1	X27_splice (driver)	MUT
+	TCGA-DF-A2L0-01	TCGA-DF-A2L0	1	"I122M (driver), T319Nfs*4 (driver)"	MUT
+	TCGA-DI-A1BU-01	TCGA-DI-A1BU	1	F279S	MUT
+	TCGA-DI-A1BY-01	TCGA-DI-A1BY	1	"D92V (driver), F241Lfs*15 (driver)"	MUT
+	TCGA-DI-A1C3-01	TCGA-DI-A1C3	1	"R130G (driver), P213Lfs*8 (driver)"	MUT
+	TCGA-E6-A1LX-01	TCGA-E6-A1LX	1	"R130Q (driver), R173C (driver), M35T (driver), D92N (driver)"	MUT
+	TCGA-E6-A1M0-01	TCGA-E6-A1M0	1	"E299* (driver), E7* (driver)"	MUT
+	TCGA-E6-A2P8-01	TCGA-E6-A2P8	1	E157Gfs*23 (driver)	MUT
+	TCGA-E6-A2P9-01	TCGA-E6-A2P9	1	N228Ifs*28 (driver)	MUT
+	TCGA-E6-A8L9-01	TCGA-E6-A8L9	1	I33del	MUT
+	TCGA-EC-A1NJ-01	TCGA-EC-A1NJ	1	"D268Gfs*30 (driver), D162V (driver)"	MUT
+	TCGA-EC-A1QX-01	TCGA-EC-A1QX	1	Y177* (driver)	MUT
+	TCGA-EC-A24G-01	TCGA-EC-A24G	1	"R130* (driver), G36R (driver)"	MUT
+	TCGA-EO-A1Y7-01	TCGA-EO-A1Y7	1	R233* (driver)	MUT
+	TCGA-EO-A22R-01	TCGA-EO-A22R	1	"E7* (driver), S10N (driver)"	MUT
+	TCGA-EO-A22S-01	TCGA-EO-A22S	1	"N323Kfs*2 (driver), I135Kfs*2 (driver)"	MUT
+	TCGA-EO-A22T-01	TCGA-EO-A22T	1	L146Ffs*34 (driver)	MUT
+	TCGA-EO-A22U-01	TCGA-EO-A22U	1	"E299* (driver), R173C (driver)"	MUT
+	TCGA-EO-A22X-01	TCGA-EO-A22X	1	"R130Q (driver), D24G (driver)"	MUT
+	TCGA-EO-A22Y-01	TCGA-EO-A22Y	1	P95L (driver)	MUT
+	TCGA-EO-A3AS-01	TCGA-EO-A3AS	1	Q171E (driver)	MUT
+	TCGA-EO-A3AU-01	TCGA-EO-A3AU	1	"R130G (driver), Q171Efs*8 (driver)"	MUT
+	TCGA-EO-A3AV-01	TCGA-EO-A3AV	1	"E7* (driver), F341V (driver), F145C"	MUT
+	TCGA-EO-A3AY-01	TCGA-EO-A3AY	1	"E299* (driver), F341C (driver), R142W, F273S"	MUT
+	TCGA-EO-A3B0-01	TCGA-EO-A3B0	1	"R130Q (driver), E7* (driver)"	MUT
+	TCGA-EO-A3B1-01	TCGA-EO-A3B1	1	PTEN-HECTD2 fusion	MUT
+	TCGA-EO-A3KX-01	TCGA-EO-A3KX	1	"Q245* (driver), L152P"	MUT
+	TCGA-EO-A3L0-01	TCGA-EO-A3L0	1	"R130G (driver), H75Tfs*3 (driver)"	MUT
+	TCGA-EY-A1GD-01	TCGA-EY-A1GD	1	"R142W, R74I"	MUT
+	TCGA-EY-A1GE-01	TCGA-EY-A1GE	1	"R130G (driver), P283Qfs*8 (driver)"	MUT
+	TCGA-EY-A1GF-01	TCGA-EY-A1GF	1	"R130Q (driver), L320S (driver), R142W"	MUT
+	TCGA-EY-A1GH-01	TCGA-EY-A1GH	1	"T319* (driver), R130G (driver)"	MUT
+	TCGA-EY-A1GI-01	TCGA-EY-A1GI	1	"Y177* (driver), Y177D (driver)"	MUT
+	TCGA-EY-A1GK-01	TCGA-EY-A1GK	1	R130G (driver)	MUT
+	TCGA-EY-A1GQ-01	TCGA-EY-A1GQ	1	"N323Kfs*2 (driver), C136R (driver), L194del"	MUT
+	TCGA-EY-A1GT-01	TCGA-EY-A1GT	1	"R130G (driver), Q149* (driver)"	MUT
+	TCGA-EY-A1GU-01	TCGA-EY-A1GU	1	"G44D (driver), K164Rfs*3 (driver), A126T (driver)"	MUT
+	TCGA-EY-A1GW-01	TCGA-EY-A1GW	1	"C124F (driver), C124W (driver)"	MUT
+	TCGA-EY-A1GX-01	TCGA-EY-A1GX	1	W274* (driver)	MUT
+	TCGA-EY-A1H0-01	TCGA-EY-A1H0	1	P248Tfs*5 (driver)	MUT
+	TCGA-EY-A215-01	TCGA-EY-A215	1	"P244Lfs*12 (driver), T202I"	MUT
+	TCGA-EY-A2OM-01	TCGA-EY-A2OM	1	R130G (driver)	MUT
+	TCGA-EY-A2OO-01	TCGA-EY-A2OO	1	"Y138* (driver), R335Dfs*9 (driver)"	MUT
+	TCGA-EY-A2OP-01	TCGA-EY-A2OP	1	R130Qfs*4 (driver)	MUT
+	TCGA-EY-A548-01	TCGA-EY-A548	1	"D268Gfs*30 (driver), R142W"	MUT
+	TCGA-EY-A549-01	TCGA-EY-A549	1	"X212_splice (driver), W274Gfs*2 (driver)"	MUT
+	TCGA-EY-A5W2-01	TCGA-EY-A5W2	1	"Y65* (driver), C136F (driver)"	MUT
+	TCGA-FI-A2D4-01	TCGA-FI-A2D4	1	R130* (driver)	MUT
+	TCGA-FI-A2D5-01	TCGA-FI-A2D5	1	"R173C (driver), E43* (driver), Y88* (driver), R14M, R142W"	MUT
+	TCGA-FI-A2D6-01	TCGA-FI-A2D6	1	R130* (driver)	MUT
+	TCGA-FI-A2F4-01	TCGA-FI-A2F4	1	"E7Gfs*17 (driver), N31Tfs*23 (driver)"	MUT
+	TCGA-PG-A6IB-01	TCGA-PG-A6IB	1	"R233* (driver), G127V (driver)"	MUT
+	TCGA-PG-A916-01	TCGA-PG-A916	1	"N184Efs*6 (driver), K6T (driver)"	MUT
+	TCGA-QF-A5YS-01	TCGA-QF-A5YS	1	"R130Q (driver), F341V (driver), K62T (driver), I135R"	MUT
+	TCGA-QS-A5YQ-01	TCGA-QS-A5YQ	1	"E299* (driver), E7* (driver), H141N"	MUT
+	TCGA-QS-A5YR-01	TCGA-QS-A5YR	1	D268Gfs*30 (driver)	MUT
+	TCGA-QS-A744-01	TCGA-QS-A744	1	"K221Rfs*2 (driver), G230* (driver)"	MUT
+	TCGA-SJ-A6ZI-01	TCGA-SJ-A6ZI	1	R234Gfs*22 (driver)	MUT
+	TCGA-SJ-A6ZJ-01	TCGA-SJ-A6ZJ	1	"Q298* (driver), X164_splice (driver), E284* (driver)"	MUT
+	TCGA-2E-A9G8-01	TCGA-2E-A9G8	0	no alteration	no alteration
+	TCGA-5B-A90C-01	TCGA-5B-A90C	0	no alteration	no alteration
+	TCGA-A5-A0G5-01	TCGA-A5-A0G5	0	no alteration	no alteration
+	TCGA-A5-A0GN-01	TCGA-A5-A0GN	0	no alteration	no alteration
+	TCGA-A5-A0R6-01	TCGA-A5-A0R6	0	no alteration	no alteration
+	TCGA-A5-A1OG-01	TCGA-A5-A1OG	0	no alteration	no alteration
+	TCGA-A5-A1OH-01	TCGA-A5-A1OH	0	no alteration	no alteration
+	TCGA-A5-A1OK-01	TCGA-A5-A1OK	0	no alteration	no alteration
+	TCGA-A5-A2K2-01	TCGA-A5-A2K2	0	no alteration	no alteration
+	TCGA-A5-A2K3-01	TCGA-A5-A2K3	0	no alteration	no alteration
+	TCGA-A5-A2K4-01	TCGA-A5-A2K4	0	no alteration	no alteration
+	TCGA-A5-A3LP-01	TCGA-A5-A3LP	0	no alteration	no alteration
+	TCGA-A5-AB3J-01	TCGA-A5-AB3J	0	no alteration	no alteration
+	TCGA-AJ-A23M-01	TCGA-AJ-A23M	0	no alteration	no alteration
+	TCGA-AJ-A23N-01	TCGA-AJ-A23N	0	no alteration	no alteration
+	TCGA-AJ-A2QM-01	TCGA-AJ-A2QM	0	no alteration	no alteration
+	TCGA-AJ-A3BF-01	TCGA-AJ-A3BF	0	no alteration	no alteration
+	TCGA-AJ-A3BH-01	TCGA-AJ-A3BH	0	no alteration	no alteration
+	TCGA-AJ-A3EJ-01	TCGA-AJ-A3EJ	0	no alteration	no alteration
+	TCGA-AJ-A3IA-01	TCGA-AJ-A3IA	0	no alteration	no alteration
+	TCGA-AJ-A3NF-01	TCGA-AJ-A3NF	0	no alteration	no alteration
+	TCGA-AJ-A3QS-01	TCGA-AJ-A3QS	0	no alteration	no alteration
+	TCGA-AJ-A3TW-01	TCGA-AJ-A3TW	0	no alteration	no alteration
+	TCGA-AJ-A6NU-01	TCGA-AJ-A6NU	0	no alteration	no alteration
+	TCGA-AJ-A8CW-01	TCGA-AJ-A8CW	0	no alteration	no alteration
+	TCGA-AP-A05A-01	TCGA-AP-A05A	0	no alteration	no alteration
+	TCGA-AP-A05D-01	TCGA-AP-A05D	0	no alteration	no alteration
+	TCGA-AP-A05H-01	TCGA-AP-A05H	0	no alteration	no alteration
+	TCGA-AP-A05J-01	TCGA-AP-A05J	0	no alteration	no alteration
+	TCGA-AP-A0L8-01	TCGA-AP-A0L8	0	no alteration	no alteration
+	TCGA-AP-A0L9-01	TCGA-AP-A0L9	0	no alteration	no alteration
+	TCGA-AP-A0LF-01	TCGA-AP-A0LF	0	no alteration	no alteration
+	TCGA-AP-A0LH-01	TCGA-AP-A0LH	0	no alteration	no alteration
+	TCGA-AP-A0LI-01	TCGA-AP-A0LI	0	no alteration	no alteration
+	TCGA-AP-A0LL-01	TCGA-AP-A0LL	0	no alteration	no alteration
+	TCGA-AP-A0LM-01	TCGA-AP-A0LM	0	no alteration	no alteration
+	TCGA-AP-A1DQ-01	TCGA-AP-A1DQ	0	no alteration	no alteration
+	TCGA-AP-A1E4-01	TCGA-AP-A1E4	0	no alteration	no alteration
+	TCGA-AW-A1PO-01	TCGA-AW-A1PO	0	no alteration	no alteration
+	TCGA-AX-A062-01	TCGA-AX-A062	0	no alteration	no alteration
+	TCGA-AX-A06B-01	TCGA-AX-A06B	0	no alteration	no alteration
+	TCGA-AX-A0IU-01	TCGA-AX-A0IU	0	no alteration	no alteration
+	TCGA-AX-A0IW-01	TCGA-AX-A0IW	0	no alteration	no alteration
+	TCGA-AX-A1C7-01	TCGA-AX-A1C7	0	no alteration	no alteration
+	TCGA-AX-A1C8-01	TCGA-AX-A1C8	0	no alteration	no alteration
+	TCGA-AX-A1CA-01	TCGA-AX-A1CA	0	no alteration	no alteration
+	TCGA-AX-A1CC-01	TCGA-AX-A1CC	0	no alteration	no alteration
+	TCGA-AX-A1CF-01	TCGA-AX-A1CF	0	no alteration	no alteration
+	TCGA-AX-A1CI-01	TCGA-AX-A1CI	0	no alteration	no alteration
+	TCGA-AX-A1CN-01	TCGA-AX-A1CN	0	no alteration	no alteration
+	TCGA-AX-A2H2-01	TCGA-AX-A2H2	0	no alteration	no alteration
+	TCGA-AX-A2H4-01	TCGA-AX-A2H4	0	no alteration	no alteration
+	TCGA-AX-A2H5-01	TCGA-AX-A2H5	0	no alteration	no alteration
+	TCGA-AX-A2H7-01	TCGA-AX-A2H7	0	no alteration	no alteration
+	TCGA-AX-A2HH-01	TCGA-AX-A2HH	0	no alteration	no alteration
+	TCGA-AX-A2HK-01	TCGA-AX-A2HK	0	no alteration	no alteration
+	TCGA-AX-A2IO-01	TCGA-AX-A2IO	0	no alteration	no alteration
+	TCGA-AX-A3FT-01	TCGA-AX-A3FT	0	no alteration	no alteration
+	TCGA-AX-A3FV-01	TCGA-AX-A3FV	0	no alteration	no alteration
+	TCGA-AX-A3GI-01	TCGA-AX-A3GI	0	no alteration	no alteration
+	TCGA-B5-A0JN-01	TCGA-B5-A0JN	0	no alteration	no alteration
+	TCGA-B5-A0K0-01	TCGA-B5-A0K0	0	no alteration	no alteration
+	TCGA-B5-A0K3-01	TCGA-B5-A0K3	0	no alteration	no alteration
+	TCGA-B5-A0K8-01	TCGA-B5-A0K8	0	no alteration	no alteration
+	TCGA-B5-A11I-01	TCGA-B5-A11I	0	no alteration	no alteration
+	TCGA-B5-A121-01	TCGA-B5-A121	0	no alteration	no alteration
+	TCGA-B5-A1MS-01	TCGA-B5-A1MS	0	no alteration	no alteration
+	TCGA-B5-A1MU-01	TCGA-B5-A1MU	0	no alteration	no alteration
+	TCGA-B5-A1MY-01	TCGA-B5-A1MY	0	no alteration	no alteration
+	TCGA-B5-A1N2-01	TCGA-B5-A1N2	0	no alteration	no alteration
+	TCGA-B5-A3FB-01	TCGA-B5-A3FB	0	no alteration	no alteration
+	TCGA-B5-A3S1-01	TCGA-B5-A3S1	0	no alteration	no alteration
+	TCGA-B5-A5OD-01	TCGA-B5-A5OD	0	no alteration	no alteration
+	TCGA-B5-A5OE-01	TCGA-B5-A5OE	0	no alteration	no alteration
+	TCGA-BG-A0M6-01	TCGA-BG-A0M6	0	no alteration	no alteration
+	TCGA-BG-A0MO-01	TCGA-BG-A0MO	0	no alteration	no alteration
+	TCGA-BG-A0VT-01	TCGA-BG-A0VT	0	no alteration	no alteration
+	TCGA-BG-A0VV-01	TCGA-BG-A0VV	0	no alteration	no alteration
+	TCGA-BG-A0YU-01	TCGA-BG-A0YU	0	no alteration	no alteration
+	TCGA-BG-A18C-01	TCGA-BG-A18C	0	no alteration	no alteration
+	TCGA-BG-A2AE-01	TCGA-BG-A2AE	0	no alteration	no alteration
+	TCGA-BK-A0CC-01	TCGA-BK-A0CC	0	no alteration	no alteration
+	TCGA-BK-A26L-01	TCGA-BK-A26L	0	no alteration	no alteration
+	TCGA-BK-A56F-01	TCGA-BK-A56F	0	no alteration	no alteration
+	TCGA-BS-A0U9-01	TCGA-BS-A0U9	0	no alteration	no alteration
+	TCGA-BS-A0UT-01	TCGA-BS-A0UT	0	no alteration	no alteration
+	TCGA-D1-A0ZP-01	TCGA-D1-A0ZP	0	no alteration	no alteration
+	TCGA-D1-A0ZZ-01	TCGA-D1-A0ZZ	0	no alteration	no alteration
+	TCGA-D1-A15V-01	TCGA-D1-A15V	0	no alteration	no alteration
+	TCGA-D1-A15X-01	TCGA-D1-A15X	0	no alteration	no alteration
+	TCGA-D1-A167-01	TCGA-D1-A167	0	no alteration	no alteration
+	TCGA-D1-A168-01	TCGA-D1-A168	0	no alteration	no alteration
+	TCGA-D1-A16G-01	TCGA-D1-A16G	0	no alteration	no alteration
+	TCGA-D1-A16I-01	TCGA-D1-A16I	0	no alteration	no alteration
+	TCGA-D1-A16S-01	TCGA-D1-A16S	0	no alteration	no alteration
+	TCGA-D1-A1NU-01	TCGA-D1-A1NU	0	no alteration	no alteration
+	TCGA-D1-A1NW-01	TCGA-D1-A1NW	0	no alteration	no alteration
+	TCGA-D1-A1NX-01	TCGA-D1-A1NX	0	no alteration	no alteration
+	TCGA-D1-A2G7-01	TCGA-D1-A2G7	0	no alteration	no alteration
+	TCGA-D1-A3DH-01	TCGA-D1-A3DH	0	no alteration	no alteration
+	TCGA-D1-A3JQ-01	TCGA-D1-A3JQ	0	no alteration	no alteration
+	TCGA-DF-A2KR-01	TCGA-DF-A2KR	0	no alteration	no alteration
+	TCGA-DI-A0WH-01	TCGA-DI-A0WH	0	no alteration	no alteration
+	TCGA-DI-A1NN-01	TCGA-DI-A1NN	0	no alteration	no alteration
+	TCGA-DI-A1NO-01	TCGA-DI-A1NO	0	no alteration	no alteration
+	TCGA-DI-A2QT-01	TCGA-DI-A2QT	0	no alteration	no alteration
+	TCGA-DI-A2QU-01	TCGA-DI-A2QU	0	no alteration	no alteration
+	TCGA-DI-A2QY-01	TCGA-DI-A2QY	0	no alteration	no alteration
+	TCGA-E6-A1LZ-01	TCGA-E6-A1LZ	0	no alteration	no alteration
+	TCGA-EO-A1Y5-01	TCGA-EO-A1Y5	0	no alteration	no alteration
+	TCGA-EO-A1Y8-01	TCGA-EO-A1Y8	0	no alteration	no alteration
+	TCGA-EO-A2CG-01	TCGA-EO-A2CG	0	no alteration	no alteration
+	TCGA-EO-A3AZ-01	TCGA-EO-A3AZ	0	no alteration	no alteration
+	TCGA-EO-A3KU-01	TCGA-EO-A3KU	0	no alteration	no alteration
+	TCGA-EO-A3KW-01	TCGA-EO-A3KW	0	no alteration	no alteration
+	TCGA-EY-A1GC-01	TCGA-EY-A1GC	0	no alteration	no alteration
+	TCGA-EY-A1GJ-01	TCGA-EY-A1GJ	0	no alteration	no alteration
+	TCGA-EY-A1GL-01	TCGA-EY-A1GL	0	no alteration	no alteration
+	TCGA-EY-A1GM-01	TCGA-EY-A1GM	0	no alteration	no alteration
+	TCGA-EY-A1GO-01	TCGA-EY-A1GO	0	no alteration	no alteration
+	TCGA-EY-A1GP-01	TCGA-EY-A1GP	0	no alteration	no alteration
+	TCGA-EY-A1GR-01	TCGA-EY-A1GR	0	no alteration	no alteration
+	TCGA-EY-A1GS-01	TCGA-EY-A1GS	0	no alteration	no alteration
+	TCGA-EY-A1GV-01	TCGA-EY-A1GV	0	no alteration	no alteration
+	TCGA-EY-A210-01	TCGA-EY-A210	0	no alteration	no alteration
+	TCGA-EY-A212-01	TCGA-EY-A212	0	no alteration	no alteration
+	TCGA-EY-A214-01	TCGA-EY-A214	0	no alteration	no alteration
+	TCGA-EY-A2ON-01	TCGA-EY-A2ON	0	no alteration	no alteration
+	TCGA-EY-A2OQ-01	TCGA-EY-A2OQ	0	no alteration	no alteration
+	TCGA-EY-A3QX-01	TCGA-EY-A3QX	0	no alteration	no alteration
+	TCGA-EY-A4KR-01	TCGA-EY-A4KR	0	no alteration	no alteration
+	TCGA-EY-A547-01	TCGA-EY-A547	0	no alteration	no alteration
+	TCGA-EY-A54A-01	TCGA-EY-A54A	0	no alteration	no alteration
+	TCGA-EY-A72D-01	TCGA-EY-A72D	0	no alteration	no alteration
+	TCGA-FI-A2CX-01	TCGA-FI-A2CX	0	no alteration	no alteration
+	TCGA-FI-A2CY-01	TCGA-FI-A2CY	0	no alteration	no alteration
+	TCGA-FI-A2D0-01	TCGA-FI-A2D0	0	no alteration	no alteration
+	TCGA-FI-A2EU-01	TCGA-FI-A2EU	0	no alteration	no alteration
+	TCGA-FI-A2EW-01	TCGA-FI-A2EW	0	no alteration	no alteration
+	TCGA-FI-A2EX-01	TCGA-FI-A2EX	0	no alteration	no alteration
+	TCGA-FI-A2EY-01	TCGA-FI-A2EY	0	no alteration	no alteration
+	TCGA-FI-A2F8-01	TCGA-FI-A2F8	0	no alteration	no alteration
+	TCGA-FI-A2F9-01	TCGA-FI-A2F9	0	no alteration	no alteration
+	TCGA-FI-A3PV-01	TCGA-FI-A3PV	0	no alteration	no alteration
+	TCGA-FI-A3PX-01	TCGA-FI-A3PX	0	no alteration	no alteration
+	TCGA-H5-A2HR-01	TCGA-H5-A2HR	0	no alteration	no alteration
+	TCGA-JU-AAVI-01	TCGA-JU-AAVI	0	no alteration	no alteration
+	TCGA-K6-A3WQ-01	TCGA-K6-A3WQ	0	no alteration	no alteration
+	TCGA-KP-A3VZ-01	TCGA-KP-A3VZ	0	no alteration	no alteration
+	TCGA-KP-A3W0-01	TCGA-KP-A3W0	0	no alteration	no alteration
+	TCGA-KP-A3W1-01	TCGA-KP-A3W1	0	no alteration	no alteration
+	TCGA-KP-A3W3-01	TCGA-KP-A3W3	0	no alteration	no alteration
+	TCGA-KP-A3W4-01	TCGA-KP-A3W4	0	no alteration	no alteration
+	TCGA-PG-A5BC-01	TCGA-PG-A5BC	0	no alteration	no alteration
+	TCGA-PG-A7D5-01	TCGA-PG-A7D5	0	no alteration	no alteration
+	TCGA-PG-A914-01	TCGA-PG-A914	0	no alteration	no alteration
+	TCGA-PG-A915-01	TCGA-PG-A915	0	no alteration	no alteration
+	TCGA-PG-A917-01	TCGA-PG-A917	0	no alteration	no alteration
+	TCGA-QF-A5YT-01	TCGA-QF-A5YT	0	no alteration	no alteration
+	TCGA-QS-A8F1-01	TCGA-QS-A8F1	0	no alteration	no alteration
+	TCGA-SL-A6J9-01	TCGA-SL-A6J9	0	no alteration	no alteration
+	TCGA-SL-A6JA-01	TCGA-SL-A6JA	0	no alteration	no alteration

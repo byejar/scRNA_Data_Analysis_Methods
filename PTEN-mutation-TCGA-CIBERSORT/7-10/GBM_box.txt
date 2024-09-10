@@ -1,0 +1,171 @@
+	TYPE
+TCGA-06-2565	MUT
+TCGA-28-5208	no alteration
+TCGA-27-1834	MUT
+TCGA-14-0817	no alteration
+TCGA-02-2486	no alteration
+TCGA-19-0957	MUT
+TCGA-06-5859	no alteration
+TCGA-76-4925	MUT
+TCGA-14-2554	no alteration
+TCGA-06-2558	MUT
+TCGA-06-0211	no alteration
+TCGA-32-4213	MUT
+TCGA-14-1034	MUT
+TCGA-27-2526	MUT
+TCGA-28-1753	MUT
+TCGA-06-0130	MUT
+TCGA-32-1982	MUT
+TCGA-32-2632	MUT
+TCGA-06-2559	MUT
+TCGA-19-2620	no alteration
+TCGA-41-2572	no alteration
+TCGA-06-0190	MUT
+TCGA-06-0187	MUT
+TCGA-06-0743	MUT
+TCGA-19-1787	no alteration
+TCGA-27-2524	MUT
+TCGA-76-4932	#N/A
+TCGA-06-5416	no alteration
+TCGA-06-5408	no alteration
+TCGA-06-0686	MUT
+TCGA-27-2528	no alteration
+TCGA-26-5139	no alteration
+TCGA-06-0744	no alteration
+TCGA-06-1804	MUT
+TCGA-06-2563	no alteration
+TCGA-16-1045	MUT
+TCGA-02-2485	no alteration
+TCGA-14-1825	MUT
+TCGA-06-2562	no alteration
+TCGA-28-2499	#N/A
+TCGA-14-1034	MUT
+TCGA-06-0132	no alteration
+TCGA-27-2523	no alteration
+TCGA-15-1444	#N/A
+TCGA-06-0749	MUT
+TCGA-06-0156	#N/A
+TCGA-14-1402	#N/A
+TCGA-06-0152	no alteration
+TCGA-06-0211	no alteration
+TCGA-28-2513	MUT
+TCGA-02-0055	MUT
+TCGA-28-5218	no alteration
+TCGA-06-5856	no alteration
+TCGA-32-1970	no alteration
+TCGA-27-1830	no alteration
+TCGA-28-1747	MUT
+TCGA-32-2615	no alteration
+TCGA-06-0125	MUT
+TCGA-26-1442	no alteration
+TCGA-06-0210	no alteration
+TCGA-06-0221	no alteration
+TCGA-06-5858	MUT
+TCGA-76-4929	no alteration
+TCGA-41-4097	MUT
+TCGA-12-3650	MUT
+TCGA-76-4926	no alteration
+TCGA-06-0168	MUT
+TCGA-06-0129	no alteration
+TCGA-19-4065	MUT
+TCGA-06-0750	no alteration
+TCGA-14-0736	MUT
+TCGA-14-0789	no alteration
+TCGA-06-0649	no alteration
+TCGA-06-2564	no alteration
+TCGA-26-5136	no alteration
+TCGA-06-5413	no alteration
+TCGA-06-5418	MUT
+TCGA-27-1832	MUT
+TCGA-26-5132	MUT
+TCGA-06-0157	MUT
+TCGA-06-2561	MUT
+TCGA-02-0047	no alteration
+TCGA-28-5207	no alteration
+TCGA-19-4065	MUT
+TCGA-12-3652	no alteration
+TCGA-28-2514	no alteration
+TCGA-19-1389	MUT
+TCGA-12-0616	no alteration
+TCGA-14-1823	no alteration
+TCGA-06-0219	MUT
+TCGA-14-0871	no alteration
+TCGA-76-4927	#N/A
+TCGA-06-5417	#N/A
+TCGA-06-0190	MUT
+TCGA-26-5135	no alteration
+TCGA-28-5220	no alteration
+TCGA-06-0125	MUT
+TCGA-06-0210	no alteration
+TCGA-28-5216	MUT
+TCGA-19-2619	no alteration
+TCGA-06-0211	no alteration
+TCGA-27-1835	no alteration
+TCGA-06-2557	no alteration
+TCGA-06-0141	no alteration
+TCGA-26-5133	no alteration
+TCGA-12-0618	MUT
+TCGA-19-5960	no alteration
+TCGA-06-5410	no alteration
+TCGA-12-5295	no alteration
+TCGA-12-1597	#N/A
+TCGA-06-0158	no alteration
+TCGA-28-2509	MUT
+TCGA-41-5651	no alteration
+TCGA-06-0184	MUT
+TCGA-06-2569	no alteration
+TCGA-06-2567	no alteration
+TCGA-06-0747	no alteration
+TCGA-12-3653	no alteration
+TCGA-06-5414	no alteration
+TCGA-12-0821	MUT
+TCGA-06-0882	MUT
+TCGA-19-1390	no alteration
+TCGA-06-0178	#N/A
+TCGA-12-0619	no alteration
+TCGA-06-5411	MUT
+TCGA-06-0138	#N/A
+TCGA-19-2624	no alteration
+TCGA-19-2625	MUT
+TCGA-06-0646	MUT
+TCGA-14-0781	MUT
+TCGA-06-0878	no alteration
+TCGA-28-5209	MUT
+TCGA-26-5134	no alteration
+TCGA-32-2616	MUT
+TCGA-14-0787	no alteration
+TCGA-14-0790	MUT
+TCGA-06-0745	no alteration
+TCGA-27-2521	no alteration
+TCGA-32-5222	MUT
+TCGA-28-5204	no alteration
+TCGA-14-1829	no alteration
+TCGA-76-4928	no alteration
+TCGA-06-0645	MUT
+TCGA-41-3915	MUT
+TCGA-19-2629	no alteration
+TCGA-06-0174	no alteration
+TCGA-28-2510	MUT
+TCGA-15-0742	no alteration
+TCGA-32-2634	MUT
+TCGA-06-0139	no alteration
+TCGA-06-0644	MUT
+TCGA-06-0171	no alteration
+TCGA-76-4931	MUT
+TCGA-06-0156	#N/A
+TCGA-28-5213	MUT
+TCGA-32-1980	no alteration
+TCGA-02-2483	no alteration
+TCGA-12-5299	no alteration
+TCGA-32-2638	no alteration
+TCGA-28-5215	MUT
+TCGA-27-2519	MUT
+TCGA-41-2571	MUT
+TCGA-27-1831	no alteration
+TCGA-06-5412	MUT
+TCGA-06-0238	no alteration
+TCGA-08-0386	MUT
+TCGA-06-2570	no alteration
+TCGA-16-0846	MUT
+TCGA-27-1837	MUT
+TCGA-27-1837-01A-01R-1850-01	#N/A
