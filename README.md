@@ -27,7 +27,7 @@ scrna+打分函数（ucell aucell fgsea/javagsea/ssgsea）
 5. **scRNA+cellchat, Monocle 3**: 
    - For analyzing **cell-cell communication** using **CellChat** and **developmental trajectory analysis** with **Monocle 3**.
 
-6. **scRNA+CopyKAT/inferCNV**: 
+6. **scRNA+CopyKAT/inferCNV/SCEVAN**: 
    - For tumor cell analysis, applies **CopyKAT** or **inferCNV** to detect copy number variations (CNVs) in scRNA-seq data.
 
 7. **scRNA+spRNA+cellchat v2**: 
