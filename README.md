@@ -1,3 +1,4 @@
+<!--
 # scRNA_pipline
 
 scRNA_pipline+fig 
@@ -8,30 +9,31 @@ scrna+打分函数（ucell aucell fgsea/javagsea/ssgsea）
 肿瘤细胞：scRNA+CopyKAT/infercnv
 空间通讯：scRNA+spRNA+cellchat——v2
 代谢预测：scRNA+compass
-
+-->
 ## Single-Cell RNA (scRNA) Data Analysis Methods
 
 1. **scRNA_pipline+fig**: 
    - Standard scRNA-seq analysis pipeline with figure generation for visualization of results.
 
 2. **scRNA+public data**: 
-   - Incorporates publicly available datasets in various formats such as **h5**, **Excel**, and **radata** for comparative analysis.
+   - Incorporates publicly available datasets in various formats such as **h5**, **Excel**, and **rdata** for comparative analysis.
 
-3. **scRNA+打分函数**: 
+3. **scRNA+Scoring Functions**: 
    - Uses scoring functions like **UCell**, **AUCell**, and various GSEA methods (**fgsea**, **javaGSEA**, **ssGSEA**) to quantify pathway activity in single cells.
 
 4. **scRNA+TCGA survival**: 
    - Integrates scRNA-seq results with **TCGA survival analysis** to associate cellular heterogeneity with patient outcomes.
 
-5. **scRNA+cellchat、Monocle 3**: 
+5. **scRNA+cellchat, Monocle 3**: 
    - For analyzing **cell-cell communication** using **CellChat** and **developmental trajectory analysis** with **Monocle 3**.
 
-6. **scRNA+CopyKAT/infercnv**: 
+6. **scRNA+CopyKAT/inferCNV**: 
    - For tumor cell analysis, applies **CopyKAT** or **inferCNV** to detect copy number variations (CNVs) in scRNA-seq data.
 
 7. **scRNA+spRNA+cellchat v2**: 
    - Integrates **spatial transcriptomics** (spRNA) and **CellChat v2** to study spatial cell communication networks.
 
-8. **scRNA+compass**: 
+8. **scRNA+COMPASS**: 
    - Predicts metabolic activity and diversity using **COMPASS** in scRNA-seq data.
+
 
